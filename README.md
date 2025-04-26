@@ -7,3 +7,7 @@
 Download the train data and update the appropriate path in the notebook. 
 After training the model, the parameters of the model are saved and then the generate() function can be used to 
 use for testing. Load the model and testing can be carried out on that.
+
+## Notebook error
+If you are unable to view the notebook directly, please use this notebook viewer link
+[NBViewers](https://nbviewer.org/github/AliShinde/IR_Phase3_Aliraza/blob/main/preprocess_v4.ipynb)
